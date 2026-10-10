@@ -49,7 +49,7 @@ Release data: https://doi.org/10.5281/zenodo.23286626 (Zenodo). The verbatim run
 
 ## Data sources and licences
 
-WFO Plant List (doi:10.5281/zenodo.20782718), LOTUS (doi:10.5281/zenodo.19360665), GBIF.org, SoilGrids 2.0, Open-Meteo (CC BY 4.0), NASA POWER, Copernicus DEM GLO-90. Occurrence records keep their individual CC0, CC BY or CC BY-NC licences.
+WFO Plant List (doi:10.5281/zenodo.20782718), LOTUS (doi:10.5281/zenodo.19360665), GBIF.org (derived dataset doi:10.15468/dd.mu9d6n), SoilGrids 2.0, Open-Meteo (CC BY 4.0), NASA POWER, Copernicus DEM GLO-90. Occurrence records keep their individual CC0, CC BY or CC BY-NC licences.
 
 ## Licence
 
