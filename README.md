@@ -45,7 +45,7 @@ Report files renamed in this edition:
 
 Column prefixes changed accordingly (`mediane_` → `median_`, `especes` → `species`, `familles` → `families`).
 
-The verbatim run script is included in the data deposit (`atlas_plantes.py`, SHA-256 `6f40c27200bb9b5ca949c7225bd42f030e3a8714117563739773a5e4bcbb8777`).
+Release data: https://doi.org/10.5281/zenodo.23286626 (Zenodo). The verbatim run script is included in that deposit (`atlas_plantes.py`, SHA-256 `6f40c27200bb9b5ca949c7225bd42f030e3a8714117563739773a5e4bcbb8777`).
 
 ## Data sources and licences
 
