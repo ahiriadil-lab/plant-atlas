@@ -1,6 +1,6 @@
 # Plant atlas pipeline
 
-Code for the dataset described in *A harmonized atlas linking plant occurrences, environmental descriptors, and natural product reports* (Ahiri, submitted to *Biodiversity Informatics*).
+Code for the dataset described in *From molecules to maps: a reproducible global atlas linking 23,820 plant species, their natural products, and their environments* (Ahiri, submitted to *Biodiversity Informatics*).
 
 The pipeline links accepted species of the World Flora Online Plant List (June 2026) to LOTUS natural-product reports (April 2026), a reproducible sample of the GBIF occurrence snapshot (1 September 2026), SoilGrids 1 km soil descriptors, 30-day weather (Open-Meteo, NASA POWER fallback) and Copernicus DEM GLO-90 elevation.
 
